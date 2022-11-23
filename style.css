@@ -1,8 +1,29 @@
-body{
+*{
+    background-color: rgb(255, 240, 217);
+}
+
+header>h1{
+    text-align: center;
+    font-size: 2.5em;
+}
+
+body ul{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    text-align: center;
+    gap:10px;
+    padding-left: 80px;
 }
+
+body li{
+    display: flex;
+    list-style: none;    
+    flex-grow: auto;
+    flex-basis:350px;
+}
+
 body img{
-    border: 0px;
+    padding-top: 40px;
+    padding-right: 50px;
 }
