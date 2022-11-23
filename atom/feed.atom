@@ -3,12 +3,12 @@
  <channel>
  <title>IDE</title>
  <description>News about different IDEs</description>
- <link></link>
+ <link>https://manuelramosoujo.github.io/plantProject/</link>
  <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
  <managingEditor>a22manuelro@iessanclemente.net</managingEditor>
  <item>
     <title>Sunflower</title>
-    <link></link>
+    <link>https://manuelramosoujo.github.io/plantProject/</link>
     <pubDate>Wed, 22 Nov 2022 12:15:00 GMT</pubDate>
     <description>Plants</description>
  </item>
