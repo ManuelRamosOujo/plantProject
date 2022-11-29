@@ -1,6 +1,4 @@
-*{
-    background-color: rgb(255, 240, 217);
-}
+
 
 header>h1{
     text-align: center;
@@ -27,3 +25,7 @@ body img{
     padding-top: 40px;
     padding-right: 50px;
 }
+
+body{
+        background-color: rgb(253, 191, 75);
+    }
