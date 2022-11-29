@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<atom version="2.0">
- <channel>
- <title>IDE</title>
- <description>News about different IDEs</description>
- <link>https://manuelramosoujo.github.io/plantProject/</link>
- <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
- <managingEditor>a22manuelro@iessanclemente.net</managingEditor>
- <item>
-    <title>Sunflower</title>
-    <link>https://manuelramosoujo.github.io/plantProject/</link>
-    <pubDate>Wed, 22 Nov 2022 12:15:00 GMT</pubDate>
-    <description>Plants</description>
- </item>
- </channel>
-</atom>
+<feed xmlns="http://www.w3.org/2005/Atom">
+   <atom version="2.0">
+   <channel>
+   <title>IDE</title>
+   <description>News about different IDEs</description>
+   <link>https://manuelramosoujo.github.io/plantProject/</link>
+   <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+   <managingEditor>a22manuelro@iessanclemente.net</managingEditor>
+   <item>
+      <title>Sunflower</title>
+      <link>https://manuelramosoujo.github.io/plantProject/</link>
+      <pubDate>Wed, 22 Nov 2022 12:15:00 GMT</pubDate>
+      <description>Plants</description>
+   </item>
+   <item>
+      <title>Index</title>
+      <link>https://manuelramosoujo.github.io/plantProject/</link>
+      <pubDate>Wed, 22 Nov 2022 12:15:00 GMT</pubDate>
+      <description>Plants</description>
+   </item>
+   </channel>
+   </atom>
+</feed>
